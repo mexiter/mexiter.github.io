@@ -1,0 +1,59 @@
+// Base styles
+// ---------------------------------------/
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  background: none;
+}
+
+body{
+  @include serif;
+  color: $text_color;
+  font-size: 16px;
+  line-height: 1.5;
+  background: url('../images/bgnoise_lg.png');
+}
+body:before {
+    content:"";
+    display:block;
+    position:fixed;
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+    z-index:-1;
+    background-color: rgba(0, 255, 249, 0.17);
+}
+
+.wrapper:before,
+.wrapper:after { content:""; display:table; }
+.wrapper:after { clear: both; }
+.wrapper {
+  max-width: 728px;
+  padding: 0 24px;
+  margin: $big-margin auto;
+  zoom: 1;
+  @include box-shadow(0px, 0px, 5px, 1px, rgba(227,227,227,1));
+  background: $white;
+}
+// clearfix (now called group,
+// via http://css-tricks.com/snippets/css/clear-fix/)
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both; }
+.group { zoom:1; /* For IE 6/7 (trigger hasLayout) */ }
+
+::-moz-selection {
+    background: rgba(51,51,51,.8);
+    color: #fff;
+    text-shadow: none;
+}
+::selection {
+    background: rgba(51,51,51,.8);
+    color: #fff;
+    text-shadow: none;
+}

@@ -1,0 +1,44 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# meta.mk
+- project: Meta.mk
+  role: Lead Developer and Web Designer
+  duration: 2014 &mdash; Present
+  url: http://meta.mk
+  description: Independent news agency as one of the few lights of free speech during the government media censure the past 10 years.  Graphic Design of the website, re-branding of the website, logo design, site implementation from scratch, dozens of plugin developed, CMS Extension using WordPress as basic CMS. Created advanced built-in workflow for journalists and editor to collaborate inside.  Multilingual, Optimized for Video, Built-in functions for customizing the website. Roles and capabilities for еditor, lector, author and publisher.Custom article statuses, formats and types to meet the news agency concept. Implemented a subscribe newsletter, Social Media built-in campaigns, Membership on free and payed articles, Inside analytics and trackers.
+
+# Follow the money
+- project: Follow the money
+  role: Web Developer
+  duration: 2015 &mdash; Present
+  url: http://sledigiparite.mk
+  description: Follow the money web service (www.sledigiparite.mk) aims to familiarize citizens with the fiscal policies of local self-governments, through a simple and transparent presentation of their budgets, i.e. incomes and expenditures of the municipalities since 2008. The service contains information that would enable citizens to monitor the spending in their communities, in order to raise the awareness about the quality and quantity of the allocation of funds.
+
+# Independent news portal in Albanian PORTALB.MK
+- project: Independent news portal in Albanian PORTALB.MK
+  role: Full Stack Developer
+  duration: 2013 &mdash; 2016
+  url: http://portalb.mk
+  description: PortAlb.mk is operated by a team of professional journalists striving to overcome the lack of relevant e-content in Albanian language from Macedonia and abroad.The team is comprised by young, yet experienced journalists, who are aiming to offer a wider range of news, exceeding the linguistic and other barriers between the media spheres in the country and the region through objective reporting based on the application and promotion of professional standards.
+
+# Media Fact-Checking Service
+- project: Media Fact-Checking Service
+  role: Full Stack Developer
+  duration: 2013 &mdash; 2016
+  url: http://proverkanafakti.mk
+  description: USAID Strengthening Media in Macedonia Project – Media Fact-Checking Service Component implemented by Metamorphosis aims to empower Macedonian citizens to hold the media accountable, and to assist journalists in the implementation of their professional standards, by providing online tools and resources for public education and awareness raising. The purpose of the Media Fact-Checking Service Component is to increase the citizen demand for fact-based, objective and professional news and information.
+
+# Ping.mk - Inciting Local e-Content
+- project: Ping.mk - Inciting Local e-Content
+  role: Full Stack Developer
+  duration: 2013 &mdash; 2016
+  url: http://ping.mk
+  description: This project aims to incite creation of local e-content in Macedonia, increasing the level of online production in the local languages and increasing the quality of the available content, especially when related to education and Open Access. It will use two-pronged approach of capacity building of potential and current content creators, as well as providing digital infrastructure for motivating such creation based on promotion of content in local languages and resulting user feedback.
+
+# Vistinomer (Truth-o-Meter)
+- project: Vistinomer (Truth-o-Meter)
+  role: Full Stack Developer
+  duration: 2013 &mdash; 2016
+  url: http://ping.mk
+  description: With the assistance of a team of experts in the relevant areas, Vistinomer.mk analyzes the promises of political parties and presents them in an easy to read, aggregated form, along with systematic statistics. Each identified promise is assessed according to the degree of its fulfillment; fulfilled, partially fulfilled or unfulfilled. Promises considered to be illogical or stated in a way that does not allow the promises to be verified were deemed inconsistent.
