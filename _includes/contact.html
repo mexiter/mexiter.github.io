@@ -1,0 +1,22 @@
+<!-- and guess where these are defined? Yup, you guessed it: the _config.yml file -->
+{% if site.resume_print_social_links %}
+<ul class='list-none'>
+
+  <!-- Phone Number  -->
+  {% if site.display_header_contact_info == 'true' %}
+  <li><strong>Phone:</strong>: {{ site.resume_contact_telephone }}</li>
+  {% endif %}
+
+  <!-- Email Address  -->
+  {% if site.resume_contact_email %}
+  <li><strong>Email</strong>: {{ site.resume_contact_email }}</li>
+  {% endif %}
+
+  <!-- Home Address -->
+  {% if site.resume_contact_address %}
+  <li><strong>Address</strong>: {{ site.resume_contact_address }}</li>
+  {% endif %}
+
+
+</ul>
+{% endif %}

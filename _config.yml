@@ -20,8 +20,8 @@ resume_contact_email:           "merxhanemini@gmail.com"
 resume_contact_telephone:       "+389 (0)71 336 714"
 resume_contact_address:         "Metodija Mitevski 10/2-9, 1000 Skopje Macedonia"
 
-resume_header_contact_info:     "Metodija Mitevski 10/2-9, 1000 Skopje Macedonia • +389 (0)71 336 714 • merxhanemini@gmail.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "+389 (0)71 336 714 • merxhanemini@gmail.com • Metodija Mitevski 10/2-9, 1000 Skopje Macedonia"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>A strong conceptual thinker and a constant student who has a keen interest in all things related to the Internet.
 An avid developer, entrepreneur obsessed with improving the level of native interactivity on the web.
@@ -54,7 +54,7 @@ resume_social_links:
   resume_facebook_url:          "https://facebook.com/merxhan"
   resume_linkedin_url:          "https://www.linkedin.com/in/merxhan"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://mexiter.com"
+  resume_website_url:           "http://www.mexiter.com"
 resume_print_social_links:      true
 
 # Design settings

@@ -42,3 +42,120 @@
   duration: 2013 &mdash; 2016
   url: http://ping.mk
   description: With the assistance of a team of experts in the relevant areas, Vistinomer.mk analyzes the promises of political parties and presents them in an easy to read, aggregated form, along with systematic statistics. Each identified promise is assessed according to the degree of its fulfillment; fulfilled, partially fulfilled or unfulfilled. Promises considered to be illogical or stated in a way that does not allow the promises to be verified were deemed inconsistent.
+
+# Affiliates
+- project: Affiliate marketing platforms(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2017 &mdash; present
+  # url: http://ping.mk
+  description: Taking care that the development process meets business goals.Facilitatating the team, works as a tech lead inside Symphony Solutions and as a Scrum Master in the project
+
+# Multisite
+- project: Multisite for mindfulness, education and social media web application(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Developed new themes and plugins, created features including advanced social media geo-location search, parametric search, fully translatable site, multi-vendor e-commerce website, advanced media website, custom form plugins for registration and newslet ter, database merging, layout designs, performance optimization etc.
+
+
+# Law
+- project: Law and business services web application(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Lead a team of 4 developers + Designer in extending existing paid theme functionalities and plugins. Headless CMS with drag and drop features extending modules from an existing plugin. Set up continuous deployment, in-hand quick technical support regarding bugs, close communication with the customer.
+
+# Startups
+- project: Niche targeted web-application for business startups in Asia(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Set up an easy and fast development workflow for my mentee, close communication with the customer to translate the business requirements into technical requirements, work on hand with the design team to meet the latest web design and development standards including customization, SEO and performance. Custom implementation of new plugins, hands on training for the copywriter, continuous delivery.
+
+# E-COMMERCE
+- project: E-commerce Luxury Products and Services Chain of Websites(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Developed website from scratch, created every plugin from scratch, used WordPress as headless CMS. Translated the business requirements to meet the technical requirements, attention to details, fully customized, easy content and page editing, parametric search, custom sliders, advanced menu designs, pdf brochure generator on the fly, code-refactoring, minification, custom widgets. Followed agile methodologies and implemented linked system between products on all the sites.
+
+# E-COMMERCE
+- project: Mass Media Digital Platform Services for External Customers(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Created the front-end part of the platform, including more than 60 designs in a time span of 4 days. Implemented an HTML templaing engine with Pug.js making the site more modular. Implemented the front-end using AngularJS(and HTML/CSS). In the meantime did code re-factoring and re-design of the website using task automation with Gulp.js with the help of already built templating engine. Implemented an easy collaborative debugg system with Browserify and Sentry.
+
+
+# Sports Analytics
+- project: Sports video and analytics platform(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Project set-up, proper configuration and installation, recruiting a team, bug fixing, helping other on some front-end and server issues. Implemented the front-end using Angular.
+
+
+# Hotel and Leisure
+- project: Hotel and Leisure platform(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: With a team of 3 devs created the website from scratch from desgin specifications. Implemented and easy workflow for the team, theme implementation using customer requirements for optimization and code-reuse, created dozens of custom plugins and widgets to meet the pixel perfect visually appealing website. Implemented custom page layouts for each specific hotel room or service and a booking system for rooms.
+
+# Car Rental
+- project: Car Rental Web Application(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Helped my team member on implementing the website to meet the deadline. Re-factoring of the code, layout design, front-end fixes, creating custom templates.
+
+
+
+# Car Rental
+- project: Carts website for the European market(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Mentored my team member on developing the website with focus on code quality, optimization, SEO and making it easy for the back-end developer, prioritizing tasks and implementation of more complex features.
+
+
+
+# Customer Service
+- project: Dutch customer service web application(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Developed the customer service dashboard from scratch, task automation,both back-end and front-end work. Small project with a team of 2 Developers
+
+
+
+# Eu Mapping
+- project: EU website for mapping and statistics(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Developed a custom plugin using Google Maps API and implementing the plugin into the CMS of the customer. Plugin included features like choosing the country, rich description, color-picking for each marker and map location, creating a chart, and table. Mentored my mentee on implementation, testing and careful deployment to production.
+
+# Food Ordering
+- project: Internal food order website(NDA)
+  role: Tech Lead / Senior Software Engineer / Scrum Master
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Mentored my colleague on implementation of the back-end part of the website, task prioritization, task translation into small parts, help on implementation. Re-definition of the back-end database implementation and level of normalization.
+
+
+
+# Telecommunications Website
+- project: Telecommunication website(NDA)
+  role: Project Manager/Business Analyst
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Communicated with the customer to understand the business requirements and then translate them as technical requirements for the team member. Explained the team member on how to implement the custom payment plugin for the platform. Set up a boilerplate and a guide on how to implement it, code reviews.
+
+
+# Corporate Website
+- project: Re-design, re-branding, developing a new corporate company website
+  role: Tech Lead
+  duration: 2016 &mdash; 2018
+  # url: http://ping.mk
+  description: Work closely with team members on how to implement the design and the partial site that has been sent by other development team. Prioritized task, worked on implementation on the back-end and front-end. Setting up the website, code review. Implementation of more complicated features.
