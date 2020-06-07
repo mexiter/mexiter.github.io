@@ -18,9 +18,9 @@ resume_contact_email:           "merxhanemini@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+389 (0)71 336 714"
-resume_contact_address:         "Metodija Mitevski 10/2-9, 1000 Skopje Macedonia"
+resume_contact_address:         "Malta | Barcelona | Skopje"
 
-resume_header_contact_info:     "+389 (0)71 336 714 • merxhanemini@gmail.com • Metodija Mitevski 10/2-9, 1000 Skopje Macedonia"
+resume_header_contact_info:     "Malta | Barcelona | Skopje"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>A strong conceptual thinker and a constant student who has a keen interest in all things related to the Internet.
