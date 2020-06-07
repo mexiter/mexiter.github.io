@@ -1,5 +1,13 @@
 # Skills
 
+# Product Leadership
+- skill: Product Leadership
+  description: Product Management with experience in Data Engineering and Centralized Internal API Platforms. Product Discovery, Market Research, Information Architecture, UX to Product Delivery. Strategic thinking and product alignment with long term company vision.
+
+# Software Development
+- skill: Software Engineering Management
+  description: Managing Team of Teams covering the whole SDLC, while implementing top-notch engineering and agile practices with focus on microservcies infrastructure, performance optimizations, security best practices, coding standards and guideline to ensure always delivring a <a href="https://www.12factor.net/" target="_blank">12factor</a> quality product
+
 # Software Architecture
 - skill: Software Architecture
   description: Experience from Management of non-functional requirements, to Architecture definition, to Tecnology Selection, to Architecture evaluation and Architecture collaboration,
@@ -7,57 +15,6 @@
 # Technical Leadership
 - skill: Technical Leadership
   description: Owning the bigger picture, Leading project from scratch with multidisciplinary teams, Coaching and Mentoring, Quality Assurance, Design, Development and Maintenence
-
-# Software Development
-- skill: Full-Stack Software Development
-  description: Creating software design concepts out of requirements, paying attention to user experience, while leading the project, infrastructure, devops, deployment. Developing the back-end and front-end of web applications, with the database design to deliver a 12factor quailty product.
-
-# Programming Languages
-- skill: Web Development Skills
-  description: PHP, JavaScript, HTML5, CSS3, Laravel, Symphony, Ruby
-
-# Frameworks
-- skill: Frameworks
-  description: React, Vue, Node.JS, Angular, jQuery, MEAN Stack
-
-# Frameworks
-- skill: Databases
-  description: MySQL, SQL, PostgreSQL, NoSQL with MongoDB, SqlLite, Firebase
-
-# Frameworks
-- skill: Version Control
-  description: Git, GitFlow, Subversion, Branching Strategie
-
-# CI/CD
-- skill: Continuous Integration and Continuous Delivery
-  description: Jenkins, Trellis, Capistrano, Docker, Ansible, Bitbucket Pipelines, Bamboo
-
-# Bug Tracking
-- skill: Bug Tracking/Test Tools
-  description: Jira, Freedcamp, Trello, Asana, Redmine, Sentry, Rollbar
-
-# CI
-- skill: Testing And Test Case Management
-  description: TDD, BDD, Unit Testing, Performance, Load, Integration Testing.s Tools &#58; jMeter, qTest, Selenium, PHP Unit, Jasemine, Mocha
-
-# UX/UI
-- skill: UX/UI Tools and Principles
-  description: Photoshop, Balsamiq, InVision, Sketch, 80/20 rule, Responsiveness
-
-# Methodologies
-- skill: Methodologies
-  description: Scrum, Kanban, XP, TDD
-
-
-# DevOps
-- skill: DevOps
-  description: Amazon Cloud, Bamboo, Vagrant, Docker
-
-# Other
-- skill: Other Skills
-  description: Task Automation(Webpack, Gulp), SEO Principles, Content Management, Performance optimization
-
-
 
 # Skills, knowledge Description
 # Development (languages) PHP, JavaScript, HTML5, CSS3, Laravel, a bit Symphony

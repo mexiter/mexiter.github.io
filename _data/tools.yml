@@ -1,0 +1,46 @@
+#Tools
+
+# Programming Languages
+- skill: Web Development
+  description: PHP, JavaScript, HTML5, CSS3, Laravel, Symphony, Ruby
+
+# Frameworks
+- skill: Frameworks
+  description: React, Vue, Node.JS, Angular, jQuery, MEAN Stack
+
+# Frameworks
+- skill: Databases
+  description: MySQL, SQL, PostgreSQL, NoSQL with MongoDB, SqlLite, Firebase, GraphQL
+
+# Frameworks
+- skill: Version Control
+  description: Git, GitFlow, Subversion, Branching Strategies
+
+# CI/CD
+- skill: Continuous Integration and Continuous Delivery
+  description: Jenkins, Trellis, Capistrano, Docker, Ansible, Bitbucket Pipelines, Bamboo, Gitlab Pipelines
+
+# Bug Tracking
+- skill: Bug Tracking/Test Tools
+  description: Jira, Freedcamp, Trello, Asana, Redmine, Sentry, Rollbar
+
+# CI
+- skill: Testing And Test Case Management
+  description: TDD, BDD, Unit Testing, Performance, Load, Integration Testing.s Tools &#58; jMeter, qTest, Selenium, PHP Unit, Jasemine, Mocha
+
+# UX/UI
+- skill: UX/UI Tools and Principles
+  description: Photoshop, Balsamiq, InVision, Sketch, 80/20 rule, Responsiveness
+
+# Methodologies
+- skill: Methodologies
+  description: Scrum, Kanban, XP, TDD, BDD
+
+
+# DevOps
+- skill: DevOps
+  description: Amazon Cloud, Bamboo, Vagrant, Docker
+
+# Other
+- skill: Other Skills
+  description: Task Automation(Webpack, Gulp), SEO Principles, Content Management, Performance optimization
