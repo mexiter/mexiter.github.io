@@ -1,6 +1,6 @@
 # Site settings
 title: "Merxhan Emini Resume"
-description: "My personal CV, Technical Lead, Software Architect."
+description: "My personal CV, Product Leadership | Solutions Architecture | Software Engineering | Data ."
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Merxhan Emini"
-resume_title:                   "Technical Lead / Software Architect"
+resume_title:                   "Product Leadership | Solutions Architecture | Software Engineering | Data"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "merxhanemini@gmail.com"
