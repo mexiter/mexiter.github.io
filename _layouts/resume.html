@@ -5,11 +5,23 @@
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
+    <div class="main-menu" itemscope itemtype="http://schema.org/Menu">
+      <ul class="menu-items">
+        <li class="menu-item"><a href="#intro" id="menu-item-1">Intro</a></li>
+        <li class="menu-item"><a href="#experience" id="menu-item-2">Experience</a></li>
+        <li class="menu-item"><a href="#skills" id="menu-item-3">Skills</a></li>
+        <li class="menu-item"><a href="#technologies" id="menu-item-4">Technologies</a></li>
+        <li class="menu-item"><a href="#projects" id="menu-item-5">Projects</a></li>
+        <li class="menu-item"><a href="#education" id="menu-item-6">Education</a></li>
+        <li class="menu-item"><a href="#awards" id="menu-item-7">Honors & Awards</a></li>
+        <li class="menu-item"><a href="#interests" id="menu-item-8">Interests</a></li>
+      </ul>
+    </div><!--.main-menu-->
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
       <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
 
-      <header class="page-header">
+      <header class="page-header" id="intro">
         <!-- TODO Right Anchor Menu Menu -->
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
@@ -53,7 +65,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2 id="experience">Experience</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -73,7 +85,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2 id="skills">Skills</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
@@ -92,7 +104,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Tools & Technologies</h2>
+          <h2 id="technologies">Tools & Technologies</h2>
         </header>
         {% for tool in site.data.tools %}
         <div class="resume-item">
@@ -109,7 +121,7 @@
       <!-- begin Projects -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2 id="projects">Projects</h2>
         </header>
 
         {% for project in site.data.projects %}
@@ -130,7 +142,7 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Education</h2>
+          <h2 id="education">Education</h2>
         </header>
 
         {% for education in site.data.education %}
@@ -159,7 +171,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2 id="awards">Honor & Awards</h2>
         </header>
 
         {% for recognition in site.data.recognitions %}
@@ -199,7 +211,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Languages</h2>
+          <h2 id="languages">Languages</h2>
         </header>
 
 
@@ -219,7 +231,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Outside Interests</h2>
+          <h2 id="interests">Outside Interests</h2>
         </header>
 
         <div class="resume-item">
@@ -276,7 +288,6 @@
       </footer>
 
     </div>
-
   </body>
 
 </html>

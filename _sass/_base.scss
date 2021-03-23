@@ -8,6 +8,7 @@
 
 html {
   background: none;
+  scroll-behavior: smooth;
 }
 
 body{
@@ -28,17 +29,20 @@ body:before {
     z-index:-1;
     //background-color: rgba(0, 255, 249, 0.17);
 }
-
+a {
+  text-decoration: none;
+}
 .wrapper:before,
 .wrapper:after { content:""; display:table; }
 .wrapper:after { clear: both; }
 .wrapper {
   max-width: $container-width;
   padding: 0 24px;
-  margin: $no-margin auto;
+  margin: $no-margin;
   zoom: 1;
   @include box-shadow(0px, 0px, 5px, 1px, rgba(227,227,227,1));
   background: $white;
+  float:right;
 }
 // clearfix (now called group,
 // via http://css-tricks.com/snippets/css/clear-fix/)

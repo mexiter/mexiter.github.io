@@ -263,3 +263,23 @@
     }
   }
 }
+
+
+//Menu css
+.main-menu {
+  width: $menu-width;
+  display: block;
+  float:left;
+  position: fixed;
+  .menu-items {
+    list-style:none;
+    padding: 20px;
+    li {
+      margin-bottom: 15px;
+      &:last-child {
+        margin-bottom:0;
+      }
+    }
+
+  }
+}
